@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+data/*
+!data/README.md
+*.h5
+*.hdf5
+.DS_Store
+*.log

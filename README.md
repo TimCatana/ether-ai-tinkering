@@ -1,6 +1,6 @@
 # AI from Scratch
 
-A project to build a conversational AI from scratch using Python, TensorFlow, and NumPy. The initial implementation is a character-level RNN chatbot, with plans to add reinforcement learning and embodiment capabilities.
+Tinkering with ai.
 
 ## Prerequisites
 
